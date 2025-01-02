@@ -44,13 +44,6 @@
   <img src="https://blog.singsys.com/wp-content/uploads/2019/01/javascript-750-350-copy-4.jpg" alt="Fun fact">
 </p>
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar&show_icons=true&theme=radical" alt="Ankit's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar&layout=compact&theme=radical" alt="Ankit's Top Languages">
-</p>
-
 <!-- Projects Showcase Section -->
 ### 🚀 Projects
 Here are some of my favorite projects:
